@@ -1,0 +1,6 @@
+past = 'Топинамбур' #лень постоянно писать example поэтому поменял)
+print(past[0])
+print(past[-1])
+print(past[5:10])
+print(past[::-1])
+print(past[1:10:2])
